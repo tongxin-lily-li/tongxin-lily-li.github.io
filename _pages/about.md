@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the New Jersey Institute of Technology, with a background enriched by a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from Michigan State University. My research interests focus on the nuanced dynamics in which people engage with and perceive emerging technologies, exploring the intersection between human behavior and digital innovations.
+I am a Ph.D. student at the New Jersey Institute of Technology, with a background enriched by a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from Michigan State University. 
+
+My research leverages mixed-method approaches, combining quantitative and qualitative methodologies to uncover the nuanced dynamics in which people engage with and perceive emerging technologies.
 
 <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'>google scholar citations <strong><span id='total_cit'>xx</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
