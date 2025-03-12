@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tongxin (Lily) Li"
-description              : "This is Tongxin (Lily) Li. "
+title                    : "Tongxin (Lily) Li 李童欣"
+description              : "Ph.D. Student @NJIT"
 repository               : "tongxin-lily-li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/imlilyli520"
+  twitter          : "imlilyli520"
   vine             :
   weibo            :
   xing             :
