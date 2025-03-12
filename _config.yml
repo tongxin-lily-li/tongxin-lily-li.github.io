@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tongxin (Lily) Li"
-description              : "This is Tongxin Li. "
+description              : "This is Tongxin (Lily) Li. "
 repository               : "tongxin-lily-li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tongxin Li"
+  name             : "Tongxin (Lily) Li"
   avatar           : "images/android-chrome-512x512.jpg"
   bio              : "New Jersey Institute of Technology"
-  location         : "New York City, NY"
+  location         : "New York City, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jBreGf0AAAAJ"
   email            : "tl434@njit.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tongxin-Li-6?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/imlilyli520"
   vine             :
   weibo            :
   xing             :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
