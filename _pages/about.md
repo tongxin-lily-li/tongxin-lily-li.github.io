@@ -41,10 +41,20 @@ My research leverages mixed-method approaches, combining quantitative and qualit
 </div>
 </div>
 
-# 👩🏻‍🏫 Teaching
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 👩🏻‍🏫 Teaching
+- *2024.08 - Now* Teaching Assistant for IS 375 DISCOVERING USER NEEDS FOR UX
+
+▪️Teaching: Facilitated a diary studies analysis workshop, helping students understand user research methods including affinity mapping and journey mapping.
+
+▪️Grading and Feedback: Responsible for assessing and providing constructive feedback for 96 undergraduate students on assignments and group projects, ensuring students meet the course objectives.
+
+- *2024.01 - 2024.05* Teaching Assistant for IS 247 DESIGNING THE USER EXPERIENCE
+
+▪️Grading and Feedback: Responsible for assessing and providing constructive feedback for 33 undergraduate students on weekly assignments and group projects, ensuring students meet the course objectives.
+
+▪️Student Support and Engagement: Proactively engaged with students to identify and addressed any challenges or difficulties they are experiencing in the course, offered guidance and support to enhance their learning experience and comprehension of user experience design principles.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
