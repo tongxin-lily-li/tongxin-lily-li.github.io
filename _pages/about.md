@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at NJIT, holds a bachelor’s degree in Media and Information and a master’s degree in Digital Communication and Media from Michigan State University. My research interests focus on investigating how people interact with and perceive AI technology, exploring the intersection between human behavior and emerging digital innovations. Additionally, I am passionate about examining the dynamics of how individuals interact with video games and social media platforms.
+I am a Ph.D. student at the New Jersey Institute of Technology, with a background enriched by a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from Michigan State University. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'>google scholar citations <strong><span id='total_cit'>8</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research leverages mixed-method approaches, combining quantitative and qualitative methodologies to uncover the nuanced dynamics in which people engage with and perceive emerging technologies.
+
+<a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'>google scholar citations <strong><span id='total_cit'>xx</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Started my Phd journey at NJIT!  
+- *2024.01*: &nbsp;🎉🎉 Started my Phd journey at NJIT! 
 
 # 📝 Publications 
 
@@ -32,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tongxin Li**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -55,7 +57,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💬 Invited Talks
 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, .  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Tencent](https://www.tencent.com/en-us/), Beijing, China.
