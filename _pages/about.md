@@ -17,21 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Tongxin Li (李童欣 in Chinese), also go by Lily. I am currently a Ph.D. student at the [Department of Informatics](https://informatics.njit.edu/) in [Ying Wu College of Computing](https://computing.njit.edu/) of [New Jersey Institute of Technology](https://www.njit.edu/) ❤️, working with [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) at the [Social X Lab](https://socialinteractionlab.com/). with a background enriched by a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from [Michigan State University](https://msu.edu/) 💚. 
+I am Tongxin Li (李童欣 in Chinese), also go by Lily. I am currently a Ph.D. student at the [Department of Informatics](https://informatics.njit.edu/) in [Ying Wu College of Computing](https://computing.njit.edu/) of [New Jersey Institute of Technology](https://www.njit.edu/) ❤️, working with [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) at the [Social X Lab](https://socialinteractionlab.com/) 🔍. with a background enriched by a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from [Michigan State University](https://msu.edu/) 💚. 
 
 My research leverages mixed-method approaches, combining quantitative and qualitative methodologies to uncover the nuanced dynamics in which people engage with and perceive emerging technologies. <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *04/2025*: &nbsp;👋 Attending [CHI 2025](https://chi2025.acm.org/) in Person in Yokohama, Japan.
+- *04/2025*: &nbsp;👋 Attending [CHI 2025](https://chi2025.acm.org/) in Person in Yokohama, Japan. (My first CHI! Looking forward to meet new people!)
 - *01/2024*: &nbsp;❤️ Started my Phd journey at [New Jersey Institute of Technology](https://www.njit.edu/)! Go Highlanders!
 
 # 📝 Publications 
 
-<div class="badge">DIS 2023</div> 
-
-[Bedtime pals: a deployment study of sleep management technology for families with young children](https://dl.acm.org/doi/abs/10.1145/3563657.3596068)
-
-Ji Youn Shin, **Tongxin Li**, Wei Peng, Hee Rin Lee, In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 1610–1629. https://doi.org/10.1145/3563657.3596068
+- <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.</a>
 
 # 👩🏻‍🏫 Teaching
 - *08/2024 - Now*, Teaching Assistant for IS 375 DISCOVERING USER NEEDS FOR UX
