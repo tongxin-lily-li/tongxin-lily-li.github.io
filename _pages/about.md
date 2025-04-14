@@ -22,6 +22,10 @@ I am Tongxin Li (李童欣 in Chinese), also go by Lily. I am currently a Ph.D. 
 My research leverages mixed-method approaches, combining quantitative and qualitative methodologies to uncover the nuanced dynamics in which people engage with and perceive emerging technologies. <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+<!--
+- *06/2025*: &nbsp;👩‍🏫 Attending IMX 2025 in Rio de Janeiro, Brazil and giving a presentation on [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician]
+- *04/2025*: &nbsp;🔥 Our paper [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician] is accepted to IMX 2025! 
+-->
 - *04/2025*: &nbsp;👋 Attending [CHI 2025](https://chi2025.acm.org/) in Person in Yokohama, Japan. (My first CHI! Looking forward to meet new people!)
 - *01/2024*: &nbsp;❤️ Started my Phd journey at [New Jersey Institute of Technology](https://www.njit.edu/)! Go Highlanders!
 
