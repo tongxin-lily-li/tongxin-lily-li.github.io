@@ -31,11 +31,13 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 
 # 📝 Publications 
 
-- <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.
+- <code class="language-plaintext highlighter-rouge">[DIS 2023](https://dis.acm.org/2023/)</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.
 
 # 👩🏻‍🏫 Teaching
 - *Fall 2024 and Spring 2025*, Teaching Assistant for **IS 375: Discovering User Needs for UX**
-
+  
+  ▪️ Worked with [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) and [Professor Adam Spryszynski](https://people.njit.edu/profile/as2569)
+  
   ▪️ Led a workshop on diary study analysis, guiding students through key user research methods such as affinity diagramming and journey mapping.
 
   ▪️ Assessed assignments and group projects—including diary study reports, interview study reports, contextual inquiry reports, and final projects—for 96 undergraduate students, providing detailed, constructive feedback aligned with course objectives.
@@ -43,6 +45,8 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
   ▪️ Enhanced course materials by updating lecture slides and adding relevant articles and multimedia resources, including instructional YouTube videos.
 
 - *Spring 2024*, Teaching Assistant for **IS 247: Designing the User Experience**
+
+  ▪️ Worked with [Dr. Alisha Pradhan](https://www.alishapradhan.net/)
 
   ▪️ Evaluated weekly assignments and milestone projects covering user research, journey mapping, ideation, prototyping, and design evaluation.
 
@@ -69,7 +73,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
   
   Selected to receive a $500 grant supporting participation in a global engagement program in Belize. As part of the program, I collaborated with local K–12 schools in San Ignacio on community-based projects aimed at building cross-cultural understanding. The experience emphasized intercultural competency, critical reflection on global narratives such as “The Danger of a Single Story” by Chimamanda Ngozi Adichie, and immersive learning through Belize’s historical and ecological sites. Upon return, I completed a reflective project demonstrating personal and academic growth as a global citizen.
 
-- *02/2019*, CAS 396: Media Sandbox L.A. Field Experience Scholarship, Michigan State University
+- *02/2019*, [CAS 396: Media Sandbox L.A. Field Experience](https://comartsci.msu.edu/about/newsroom/news/experiencing-media-sandbox-la-study-away) Scholarship, Michigan State University
   
   Awarded a $1,000 travel scholarship to participate in CAS 396, a competitive program that connects students with Spartan alumni in the media industry. The course included behind-the-scenes visits to major media companies and provided firsthand insights into creative careers in Los Angeles.
 
@@ -93,8 +97,8 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 # 💻 Internships
 - *06/2019 - 08/2019*, [Tencent](https://www.tencent.com/en-us/), Beijing, China.
   
-  ▪️ Participated in group activities of the innovative mini-program of Tencent: Fact Check 
+  ▪️ Participated in group activities of the innovative [WeChat Mini Program: Fact Check 腾讯新闻较真](https://vp.fact.qq.com/home) under Tencent News
   
-  ▪️ Served as WeChat platform article typesetter (110 medical articles) and editor to maintain mini-program daily updates, increased 2.6% the total number of social media followers 
+  ▪️ Served as WeChat platform article typesetter (110 medical articles) and editor to maintain WeChat Mini Program daily updates, increased 2.6% the total number of social media followers 
   
-  ▪️ Average number of reviews of headline public article is 15,000+; the highest reading of the mini-program card article 10,000+
+  ▪️ Average number of reviews of headline public article is 15,000+; the highest reading of the WeChat Mini Program card article 10,000+
