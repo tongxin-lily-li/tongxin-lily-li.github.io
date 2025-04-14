@@ -27,10 +27,10 @@ My research leverages mixed-method approaches, combining quantitative and qualit
 
 # 📝 Publications 
 
-- <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.</a>
+- <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.
 
 # 👩🏻‍🏫 Teaching
-- *08/2024 - Now*, Teaching Assistant for IS 375 DISCOVERING USER NEEDS FOR UX
+- *08/2024 - Current*, Teaching Assistant for **IS 375 DISCOVERING USER NEEDS FOR UX**
 
   ▪️Teaching: Facilitated a diary studies analysis workshop, helping students understand user research methods including affinity mapping and journey mapping.
 
@@ -38,7 +38,7 @@ My research leverages mixed-method approaches, combining quantitative and qualit
 
   ▪️Updating Slides
 
-- *01/2024 - 05/2024*, Teaching Assistant for IS 247 DESIGNING THE USER EXPERIENCE
+- *01/2024 - 05/2024*, Teaching Assistant for **IS 247 DESIGNING THE USER EXPERIENCE**
 
   ▪️Grading and Feedback: Responsible for assessing and providing constructive feedback for 33 undergraduate students on weekly assignments and group projects, ensuring students meet the course objectives.
 
@@ -48,15 +48,15 @@ My research leverages mixed-method approaches, combining quantitative and qualit
 - *2021* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *January 2024 - current*, Pursuing my PhD, New Jersey Institute of Technology, Newark, New Jersey, USA
-- *August 2020 - December 2022*, Master, Michigan State University, East Lansing, Michigan, USA
-- *August 2017 - August 2020*, Undergraduate, Michigan State University, East Lansing, Michigan, USA
+- *01/2024 - Current*, Pursuing my PhD, New Jersey Institute of Technology, Newark, New Jersey, USA
+- *08/2020 - 12/2022*, Master, Michigan State University, East Lansing, Michigan, USA
+- *08/2017 - 08/2020*, Undergraduate, Michigan State University, East Lansing, Michigan, USA
 
 <!--
 # 💬 Invited Talks
 
-- *2021.03*, .  \| [\[video\]](https://github.com/)
+- *2021*, .  \| [\[video\]](https://github.com/)
 -->
 
 # 💻 Internships
-- *May 2019 - August 2019*, [Tencent](https://www.tencent.com/en-us/), Beijing, China.
+- *05/2019 - 08/2019*, [Tencent](https://www.tencent.com/en-us/), Beijing, China.
