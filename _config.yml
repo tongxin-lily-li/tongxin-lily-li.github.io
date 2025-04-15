@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tongxin Lily Li 李童欣"
-description              : "UX Researcher @SocialXLab, HCI PhD Student @NJITYingWu"
+description              : "UX Researcher @SocialXLab, PhD Student @NJITYingWu"
 repository               : "tongxin-lily-li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TongxinLilyLi"
+  X                : "TongxinLilyLi"
   vine             :
   weibo            :
   xing             :
