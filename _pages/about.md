@@ -31,7 +31,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 
 # 📝 Publications 
 
-- <code class="language-plaintext highlighter-rouge">[DIS 2023](https://dis.acm.org/2023/)</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.
+- <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.
 
 # 👩🏻‍🏫 Teaching
 - *Fall 2024 and Spring 2025*, Teaching Assistant for **IS 375: Discovering User Needs for UX**
