@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Tongxin Li (李童欣 in Chinese), also go by Lily. I am currently a Ph.D. student at the [Department of Informatics](https://informatics.njit.edu/) in [Ying Wu College of Computing](https://computing.njit.edu/) of [New Jersey Institute of Technology](https://www.njit.edu/) ❤️, working with [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) at the [Social X Lab](https://socialinteractionlab.com/) 🔍. with a background enriched by a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from [Michigan State University](https://msu.edu/) 💚. 
+Hi, I’m Tongxin Li (李童欣 in Chinese), and I also go by Lily—a name inspired by my love for [Monet’s Water Lilies](https://www.clevelandart.org/art/1960.81). 
 
-My research focuses on Human-Computer Interaction (HCI). I use mixed-method approaches, integrating quantitative and qualitative methods to explore how people engage with and perceive emerging technologies in nuanced ways. <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I’m currently a Ph.D. student in the [Department of Informatics](https://informatics.njit.edu/) at the [Ying Wu College of Computing](https://computing.njit.edu/), [New Jersey Institute of Technology](https://www.njit.edu/) ❤️, where I work with [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) in the [Social X Lab](https://socialinteractionlab.com/) 🔍.
+
+I hold a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from [Michigan State University](https://msu.edu/) 💚.
+
+My research focuses on Human-Computer Interaction (HCI). I use mixed-method approaches, integrating quantitative and qualitative methods to understand how people perceive and engage with technology in complex, context-dependent ways. <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 <!--
