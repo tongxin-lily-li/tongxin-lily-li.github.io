@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I’m Tongxin Li (李童欣 in Chinese), and I also go by Lily—a name inspired by my love for [Monet’s Water Lilies](https://www.clevelandart.org/art/1960.81). 
 
-I’m currently a Ph.D. student in the [Department of Informatics](https://informatics.njit.edu/) at the [Ying Wu College of Computing](https://computing.njit.edu/), [New Jersey Institute of Technology](https://www.njit.edu/) ❤️, where I work with [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) in the [Social X Lab](https://socialinteractionlab.com/) 🔍.
+I’m currently a Ph.D. student in the [Department of Informatics](https://informatics.njit.edu/) at the [Ying Wu College of Computing](https://computing.njit.edu/), [New Jersey Institute of Technology](https://www.njit.edu/) ❤️, where I work with my advisor [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) in the [Social X Lab](https://socialinteractionlab.com/) 🔍.
 
 I hold a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from [Michigan State University](https://msu.edu/) 💚.
 
@@ -57,6 +57,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
   ▪️ Provided constructive feedback and one-on-one support to enhance students’ understanding of UXD and UCD principles.
 
 # 🎖 Honors and Awards
+
 - *11/2020*, [People’s Choice Winner](https://www.isp.msu.edu/about/global-focus/2020-winners/), Global Spartans at Work, Global Focus, Michigan State University
   
   Awarded for a photo captured during a service-learning program in Belize. The image portrays a heartfelt farewell between MSU’s lead faculty and the local elementary school principal at Santa Elena Primary Catholic School. Selected by public vote, the photo reflects themes of cross-cultural connection and global engagement.
