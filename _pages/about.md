@@ -54,7 +54,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 
   ▪️ Evaluated weekly assignments and milestone projects covering user research, journey mapping, ideation, prototyping, and design evaluation.
 
-  ▪️ Provided constructive feedback and one-on-one support to enhance students’ understanding of UXD and UCD principles.
+  ▪️ Provided constructive feedback and one-on-one support to enhance students’ understanding of User Experience Design.
 
 # 🎖 Honors and Awards
 
