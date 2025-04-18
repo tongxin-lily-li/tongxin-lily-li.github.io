@@ -20,7 +20,7 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fa-solid fa-location-dot"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -39,7 +39,7 @@
       {% endif %}
       {% if author.X %}
         <!-- <li><a href="https://www.x.com/{{ author.X }}"><span style="font-weight: bold;">X</span></a></li> -->
-        <li><a href="https://www.x.com/{{ author.X }}"><i class="fab fa-fw fa-x-twitter" aria-hidden="true"></i> X</a></li>  
+        <li><a href="https://www.x.com/{{ author.X }}"><i class="fa-brands fa-square-x-twitter"></i>X</a></li>  
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -125,7 +125,7 @@
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+        <a href="mailto:{{ author.email }}"><i class="fa-solid fa-square-envelope"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
@@ -143,7 +143,7 @@
         <a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.linkedin %}
-        <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa-brands fa-linkedin"></i></a>
       {% endif %}
       {% if author.dblp %}
         <a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i></a>
@@ -206,7 +206,7 @@
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
       {% endif %}
       {% if author.orcid %}
-        <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
+        <a href="{{ author.orcid }}"><i class="fa-brands fa-orcid"></i></a>
       {% endif %}
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
