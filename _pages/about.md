@@ -23,7 +23,7 @@ I’m currently a Ph.D. student in the [Department of Informatics](https://infor
 
 I hold a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from [Michigan State University](https://msu.edu/) 💚.
 
-My research focuses on Human-Computer Interaction (HCI). I use mixed-method approaches, integrating quantitative and qualitative methods to understand how people perceive and engage with technology in complex, context-dependent ways. <a href='https://scholar.google.com/citations?user=jBreGf0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=white&color=blue&style=for-the-badge&label=Google%20Scholar"></a>
+My research focuses on Human-Computer Interaction (HCI). I use mixed-method approaches, integrating quantitative and qualitative methods to understand how people perceive and engage with technology in complex, context-dependent ways.
 
 # 🔥 News
 <!--
