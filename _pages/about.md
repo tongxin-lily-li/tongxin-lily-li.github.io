@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Tongxin Li (李童欣 in Chinese), and I also go by Lily—a name inspired by my love for [Monet’s Water Lilies](https://www.clevelandart.org/art/1960.81) 🪷. 
+Hi, I’m Tongxin Li (李童欣 in Chinese), and I also go by Lily — a name inspired by my love for [Monet’s Water Lilies](https://www.clevelandart.org/art/1960.81) 🪷. 
 
 I’m currently a Ph.D. student in the [Department of Informatics](https://informatics.njit.edu/) at the [Ying Wu College of Computing](https://computing.njit.edu/), [New Jersey Institute of Technology](https://www.njit.edu/) ❤️, where I work with my advisor [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) in the [Social X Lab](https://socialinteractionlab.com/) 🔍.
 
