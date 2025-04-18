@@ -105,7 +105,8 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        <!-- <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li> -->
+        <li><a href="{{ author.googlescholar }}"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Google_Scholar_logo.svg" alt="Google Scholar logo" style="width:16px; height:16px; vertical-align:middle; margin-right:5px;">Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
