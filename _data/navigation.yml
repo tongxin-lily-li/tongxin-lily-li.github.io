@@ -6,6 +6,9 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Posts"
+    url: "/#-posts"
+
   - title: "Publications"
     url: "/#-publications"
 

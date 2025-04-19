@@ -34,7 +34,11 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 - *09/2024*: &nbsp;🎮 Attended TwitchCon San Diego 2024 with my advisor and distributed surveys to over 200 participants for our research study.
 - *01/2024*: &nbsp;❤️ Started my Phd journey at [New Jersey Institute of Technology](https://www.njit.edu/)! Go Highlanders!
 
-# 📝 Publications 
+# 📝 Posts
+- *04/2025*: Heading to CHI 2025! [X Post](https://x.com/TongxinLilyLi/status/1909270035304001965)
+
+
+# 📄 Publications 
 
 - <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee.
 
@@ -83,9 +87,9 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 -->
 
 # 📖 Educations
-- *01/2024 - Current*, Pursuing my PhD, New Jersey Institute of Technology, Newark, New Jersey, USA
-- *08/2020 - 12/2022*, Master, Michigan State University, East Lansing, Michigan, USA
-- *08/2017 - 08/2020*, Undergraduate, Michigan State University, East Lansing, Michigan, USA
+- *01/2024 - Current*, Pursuing my PhD, New Jersey Institute of Technology, Newark, New Jersey, USA ❤️ 
+- *08/2020 - 12/2022*, Master, Michigan State University, East Lansing, Michigan, USA 🤍 
+- *08/2017 - 08/2020*, Undergraduate, Michigan State University, East Lansing, Michigan, USA 💚 
 
 <!--
 # 💬 Invited Talks
