@@ -107,3 +107,18 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.author__urls li {
+    display: flex;
+    align-items: center;
+    gap: 6px; /* 控制图标和文字之间的间距 */
+    margin-bottom: 6px;
+  }
+  
+  .author__urls li i,
+  .author__urls li .ai {
+    font-size: 1.1em;
+    line-height: 1;
+    vertical-align: middle;
+  }
+  
