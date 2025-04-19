@@ -35,7 +35,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 - *01/2024*: &nbsp;❤️ Started my Phd journey at [New Jersey Institute of Technology](https://www.njit.edu/)! Go Highlanders!
 
 # 📝 Posts
-- *04/2025*: Heading to CHI 2025! [X Post](https://x.com/TongxinLilyLi/status/1909270035304001965)
+- *04/2025*: Heading to CHI 2025! [X Post](https://x.com/TongxinLilyLi/status/1909270035304001965) [Blog](https://tongxin-lily-li.github.io/blog)
 
 
 # 📄 Publications 
