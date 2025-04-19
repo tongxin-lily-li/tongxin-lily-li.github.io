@@ -12,9 +12,6 @@ author_profile: true
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json " %}
-{% for post in site.posts %}
-  - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%Y-%m-%d" }}
-{% endfor %}
 
 <span class='anchor' id='about-me'></span>
 
