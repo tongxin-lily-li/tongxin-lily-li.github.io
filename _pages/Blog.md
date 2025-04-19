@@ -16,6 +16,6 @@ author_profile: true
   - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
 
-<span class='anchor' id='blog'></span>
+<span class='anchor' id='about-me'></span>
 
 Excited to share that I’m going to Japan for #CHI2025 @acm_chi this month! It’ll be my first CHI, and I’m looking forward to connecting with HCI professionals. Although I don’t have a publication this year, eager to learn and be inspired by the amazing work in the community!
