@@ -26,11 +26,10 @@ I hold a Bachelor’s degree in Media and Information and a Master’s degree in
 My research focuses on Human-Computer Interaction (HCI). I use mixed-method approaches, integrating quantitative and qualitative methods to understand how people perceive and engage with technology in complex, context-dependent ways.
 
 # 🔥 News
-<!--
-- *06/2025*: &nbsp;👩‍🏫 Attending IMX 2025 in Rio de Janeiro, Brazil and giving a presentation on [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician]
-- *04/2025*: &nbsp;🔥 Our paper [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician] is accepted to IMX 2025! 
--->
+
+- *06/2025*: &nbsp;👩‍🏫 Attending IMX 2025 in Rio de Janeiro, Brazil and giving a presentation on [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician]!
 - *04/2025*: &nbsp;🌸 Attending [CHI 2025](https://chi2025.acm.org/) in-person in Yokohama, Japan. (My first CHI! Looking forward to meet new people! Please say hi and connect!)
+- *04/2025*: &nbsp;🔥 Our paper [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician] is accepted to IMX 2025! 
 - *09/2024*: &nbsp;🎮 Attended TwitchCon San Diego 2024 with my advisor and distributed surveys to over 200 participants for our research study.
 - *01/2024*: &nbsp;❤️ Started my Phd journey at [New Jersey Institute of Technology](https://www.njit.edu/)! Go Highlanders!
 
