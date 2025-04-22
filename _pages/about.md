@@ -43,6 +43,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 - <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime pals: a deployment study of sleep management technology for families with young children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee
 
 # 👩🏻‍🏫 Teaching
+
 - *Fall 2024 and Spring 2025*, Teaching Assistant for **IS 375: Discovering User Needs for UX**
   - Worked with [Dr. Donghee Yvette Wohn](https://yvettewohn.com/) and [Professor Adam Spryszynski](https://people.njit.edu/profile/as2569)
   - Led a workshop on diary study analysis, guiding students through key user research methods such as affinity diagramming and journey mapping.
@@ -53,6 +54,14 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
   - Worked with [Dr. Alisha Pradhan](https://www.alishapradhan.net/)
   - Evaluated weekly assignments and milestone projects covering user research, journey mapping, ideation, prototyping, and design evaluation.
   - Provided constructive feedback and one-on-one support to enhance students’ understanding of User Experience Design.
+
+# 🙋‍♀️ Services
+
+- **Conference Reviewer**
+
+- **Activities**
+  - *03/2025 - now*, Marketing, [Chinese Association of Science and Technology](https://www.cast-pa.org/castusa), USA (CAST-USA)
+  - *09/2024 - now*, [Chinese Students and Scholars Association (CSSA) at NJIT](https://njit.campuslabs.com/engage/organization/cssa)
 
 # 🎖 Honors and Awards
 
@@ -98,7 +107,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 -->
 
 # 💻 Internships
-- *06/2019 - 08/2019*, [Tencent](https://www.tencent.com/en-us/), Beijing, China.
+- *06/2019 - 08/2019*, Social Media Coordinator, [Tencent](https://www.tencent.com/en-us/), Beijing, China.
   - Participated in group activities of the innovative [WeChat Mini Program: Fact Check 腾讯新闻较真](https://vp.fact.qq.com/home) under Tencent News
   - Served as WeChat platform article typesetter (110 medical articles) and editor to maintain WeChat Mini Program daily updates, increased 2.6% the total number of social media followers 
   - Average number of reviews of headline public article is 15,000+; the highest reading of the WeChat Mini Program card article 10,000+
