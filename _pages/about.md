@@ -39,7 +39,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 
 # 📄 Publications 
 
-- <code class="language-plaintext highlighter-rouge">IMX 2025</code> <a href="docs/Files/2025_IMX_AI_Fan_Art_Study.pdf">Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician</a>, Donghee Yvette Wohn, <strong>Tongxin Li</strong>, Sharon Oh, Vineeth Kanpa, Ian Cho
+- <code class="language-plaintext highlighter-rouge">IMX 2025</code> <a href="docs/2025_IMX_AI_Fan_Art_Study.pdf">Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician</a>, Donghee Yvette Wohn, <strong>Tongxin Li</strong>, Sharon Oh, Vineeth Kanpa, Ian Cho
 - <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime Pals: A Deployment Study of Sleep Management Technology for Families with Young Children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee
 
 # 👩🏻‍🏫 Teaching
