@@ -63,7 +63,7 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
   - *03/2025 - now*, Marketing, [The Chinese Association for Science and Technology, USA, Greater New York Inc.(CAST-USA GNY)](http://castgny.org/en/index.php/about-us-3/)
   - *09/2024 - now*, Member, [Chinese Students and Scholars Association (CSSA) @NJIT](https://njit.campuslabs.com/engage/organization/cssa)
   - *10/12/2024*, Student Volunteer, [2024 CAST-GNY ANNUAL CONFERENCE](http://castgny.org/en/wp-content/uploads/2024/11/CASTGNY2024_ProgramBook.pdf)
-  - *05/25/2024*, Student Volunteer, [Social Media Moderation Summit 2024 @NJIT](https://mod-summit.com/)
+  - *05/2024*, Student Volunteer, [Social Media Moderation Summit 2024 @NJIT](https://mod-summit.com/)
 
 # 🎖 Honors and Awards
 
