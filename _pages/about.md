@@ -27,10 +27,11 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 
 # 🔥 News
 
-- *06/2025*: &nbsp;👩‍🏫 Attending IMX 2025 in Rio de Janeiro, Brazil and giving a presentation on [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician]!
-- *04/2025*: &nbsp;🌸 Attending [CHI 2025](https://chi2025.acm.org/) in-person in Yokohama, Japan. (My first CHI! Looking forward to meet new people! Please say hi and connect!)
-- *04/2025*: &nbsp;🔥 Our paper [Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician] is accepted to IMX 2025! 
-- *09/2024*: &nbsp;🎮 Attended TwitchCon San Diego 2024 with my advisor and distributed surveys to over 200 participants for our research study.
+- *06/2025*: &nbsp;🇧🇷 Attending [IMX 2025](https://imx.acm.org/2025/) in person in Rio de Janeiro, Brazil, where I'll be presenting our paper *Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician*! Excited for my first conference presentation!
+- *04/2025*: &nbsp;🌸 Attending [CHI 2025](https://chi2025.acm.org/) in person in Yokohama, Japan. (My first CHI! Looking forward to meet new people! Please say hi and connect!)
+- *04/2025*: &nbsp;🔥 Our paper *Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician* is accepted to IMX 2025! 
+- *09/2024*: &nbsp;🎮 Attended [TwitchCon](https://www.twitchcon.com/) San Diego 2024 with my advisor, where we collected data from over 200 participants for our research study — an incredible hands-on experience in in-person data collection, community engagement, and practicing conversations with strangers!
+- *05/25/2024*, Served as a student volunteer at the [Social Media Moderation Summit 2024 @NJIT](https://mod-summit.com/), where I participated in meaningful discussions on social media moderation and connected with amazing peers!
 - *01/2024*: &nbsp;❤️ Started my Phd journey at [New Jersey Institute of Technology](https://www.njit.edu/)! Go Highlanders!
 
 # 📝 Posts
@@ -55,13 +56,14 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
   - Evaluated weekly assignments and milestone projects covering user research, journey mapping, ideation, prototyping, and design evaluation.
   - Provided constructive feedback and one-on-one support to enhance students’ understanding of User Experience Design.
 
-# 🙋‍♀️ Services
+# 🙋🏻‍♀️ Services
 
 - **Conference Reviewer**
-
 - **Activities**
-  - *03/2025 - now*, Marketing, [Chinese Association of Science and Technology](https://www.cast-pa.org/castusa), USA (CAST-USA)
-  - *09/2024 - now*, [Chinese Students and Scholars Association (CSSA) at NJIT](https://njit.campuslabs.com/engage/organization/cssa)
+  - *03/2025 - now*, Marketing, [The Chinese Association for Science and Technology, USA, Greater New York Inc.(CAST-USA GNY)](http://castgny.org/en/index.php/about-us-3/)
+  - *09/2024 - now*, Member, [Chinese Students and Scholars Association (CSSA) @NJIT](https://njit.campuslabs.com/engage/organization/cssa)
+  - *10/12/2024*, Student Volunteer, [2024 CAST-GNY ANNUAL CONFERENCE](http://castgny.org/en/wp-content/uploads/2024/11/CASTGNY2024_ProgramBook.pdf)
+  - *05/25/2024*, Student Volunteer, [Social Media Moderation Summit 2024 @NJIT](https://mod-summit.com/)
 
 # 🎖 Honors and Awards
 
