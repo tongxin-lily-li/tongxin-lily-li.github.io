@@ -23,24 +23,26 @@ I’m currently a Ph.D. student in the [Department of Informatics](https://infor
 
 I hold a Bachelor’s degree in Media and Information and a Master’s degree in Digital Communication and Media from [Michigan State University](https://msu.edu/) 💚.
 
-My research focuses on Human-Computer Interaction (HCI). I use mixed-method approaches, integrating quantitative and qualitative methods to understand how people perceive and engage with technology in complex, context-dependent ways.
+I use mixed-method approaches, integrating quantitative and qualitative methods to understand how people perceive and engage with technology in complex, context-dependent ways.
 
 # 🔥 News
 
 - *06/2025*: &nbsp;🇧🇷 Attending [IMX 2025](https://imx.acm.org/2025/) in person in Rio de Janeiro, Brazil, where I'll be presenting our paper *Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician*! Excited for my first conference presentation!
-- *04/2025*: &nbsp;🌸 Attending [CHI 2025](https://chi2025.acm.org/) in person in Yokohama, Japan. (My first CHI! Looking forward to meet new people! Please say hi and connect!)
+- *04/2025*: &nbsp;🌸 Attended [CHI 2025](https://chi2025.acm.org/) in person in Yokohama, Japan. (My first CHI! Looking forward to meet new people! Please say hi and connect!)
 - *04/2025*: &nbsp;🔥 Our paper *Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician* is accepted to IMX 2025! 
 - *09/2024*: &nbsp;🎮 Attended [TwitchCon](https://www.twitchcon.com/) San Diego 2024 with my advisor, where we collected data from over 200 participants for our research study — an incredible hands-on experience in in-person data collection, community engagement, and practicing conversations with strangers!
 - *05/2024*, &nbsp;🟪 Served as a student volunteer at the [Social Media Moderation Summit 2024 @NJIT](https://mod-summit.com/), where I participated in meaningful discussions on social media moderation and connected with amazing peers!
 - *01/2024*: &nbsp;❤️ Started my Phd journey at [New Jersey Institute of Technology](https://www.njit.edu/)! Go Highlanders!
 
 # 📝 Posts
+- *05/2025*: Post CHI 2025! [X Post](https://x.com/TongxinLilyLi/status/1918357410357330119)
+- *04/2025*: At CHI 2025! [X Post](https://x.com/TongxinLilyLi/status/1916882398601527310)
 - *04/2025*: Heading to CHI 2025! [X Post](https://x.com/TongxinLilyLi/status/1909270035304001965)
 
 
 # 📄 Publications 
 
-- <code class="language-plaintext highlighter-rouge">IMX 2025</code> <a href="docs/2025_IMX_AI_Fan_Art_Study.pdf">Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician</a>, Donghee Yvette Wohn, <strong>Tongxin Li</strong>, Sharon Oh, Vineeth Kanpa, Ian Cho
+- <code class="language-plaintext highlighter-rouge">IMX 2025</code> <a href="https://drive.google.com/file/d/19ZjyiEvzYw4BgvkA1cf5TVUln58ymhKn/view?usp=sharing">Understanding Fans' Attitudes Toward AI-generated Fan Content About Their Favorite Musician</a>, Donghee Yvette Wohn, <strong>Tongxin Li</strong>, Sharon Oh, Vineeth Kanpa, Ian Cho
 - <code class="language-plaintext highlighter-rouge">DIS 2023</code> <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596068">Bedtime Pals: A Deployment Study of Sleep Management Technology for Families with Young Children</a>, Ji Youn Shin, <strong>Tongxin Li</strong>, Wei Peng and Hee Rin Lee
 
 # 👩🏻‍🏫 Teaching
@@ -58,10 +60,13 @@ My research focuses on Human-Computer Interaction (HCI). I use mixed-method appr
 
 # 🙋🏻‍♀️ Services
 
-- **Conference Reviewer**
+- **Reviewer**
+  - CHI 2025 Late Breaking Work
+  - CSCW 2025
+
 - **Activities**
-  - *03/2025 - now*, Marketing, [The Chinese Association for Science and Technology, USA, Greater New York Inc.(CAST-USA GNY) 中国旅美科技协会大纽约分会](http://castgny.org/en/index.php/about-us-3/)
-  - *09/2024 - now*, Member, [Chinese Students and Scholars Association (CSSA) 中国学生学者联合会@NJIT](https://njit.campuslabs.com/engage/organization/cssa)
+  - *03/2025 - Current*, Marketing, [The Chinese Association for Science and Technology, USA, Greater New York Inc.(CAST-USA GNY) 中国旅美科技协会大纽约分会](http://castgny.org/en/index.php/about-us-3/)
+  - *09/2024 - Current*, Event Coordinator, [Chinese Students and Scholars Association (CSSA) 中国学生学者联合会@NJIT](https://njit.campuslabs.com/engage/organization/cssa)
   - *10/12/2024*, Student Volunteer, [2024 CAST-GNY ANNUAL CONFERENCE](http://castgny.org/en/wp-content/uploads/2024/11/CASTGNY2024_ProgramBook.pdf)
   - *05/25/2024*, Student Volunteer, [Social Media Moderation Summit 2024 @NJIT](https://mod-summit.com/)
 
